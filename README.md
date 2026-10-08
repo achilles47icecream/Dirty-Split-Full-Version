@@ -240,4 +240,4 @@ This repository serves as the official landing page for Dirty Split. The softwar
 **Get the most recent version of Dirty Split today!**
 
 ---
-**Last updated:** 2026-10-07 21:09:29 UTC
+**Last updated:** 2026-10-08 01:42:28 UTC
